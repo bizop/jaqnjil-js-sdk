@@ -45,3 +45,6 @@ async function generateArticleSDK(queryObject) {
 
 generateArticleSDK(queryObject);
 ```
+
+## Documentation
+You can find the [full documentation here](https://jaq-n-jil.gitbook.io/application-docs/api-documentation/article-generator-api).
