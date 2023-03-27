@@ -1,4 +1,3 @@
-```markdown
 # Article Generator API
 
 ## Introducing Jaq
@@ -15,11 +14,11 @@ Get your API key on your "My Account" page
 
 Install via NPM library:
 
-\`\`\`
+```
 npm install jaq-sdk
-\`\`\`
+```
 
-\`\`\`
+```
 import { Jaq } from './Jaq.js';
 
 const apiKey = 'YOUR_API_KEY';
@@ -35,5 +34,4 @@ async function generateArticleSDK(queryObject) {
 }
 
 generateArticleSDK(queryObject);
-\`\`\`
 ```
