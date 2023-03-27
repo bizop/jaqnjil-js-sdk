@@ -1,7 +1,7 @@
 # Jaq n Jil - AI Blog Article Generator API
 
 ## Introducing Jaq
-The Jaq JavaScript SDK is a collection of useful methods for the [Jaq n Jil](https://jaqnjil.com/) API, which provides professional grade AI-generated articles and content based on specific parameters. You can find the [full documentation here](https://jaq-n-jil.gitbook.io/application-docs/api-documentation/article-generator-api).
+The Jaq JavaScript SDK is a collection of useful methods for the [Jaq n Jil](https://jaqnjil.com/) API, which provides professional grade AI-generated blog articles and content based on specific parameters. You can find the [full documentation here](https://jaq-n-jil.gitbook.io/application-docs/api-documentation/article-generator-api).
 
 [Example article output](https://docs.google.com/document/d/1POjt2QoDBVuVZJqCIxjAnjVMYU3SOk3u0AfVd03W7U8/edit?usp=sharing)
 
