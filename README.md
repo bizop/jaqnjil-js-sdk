@@ -18,7 +18,7 @@ Install via NPM library:
 npm install jaq-sdk
 ```
 
-Example usage:
+Example usage to generate article:
 ```
 import { Jaq } from './Jaq.js';
 
