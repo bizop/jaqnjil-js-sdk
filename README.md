@@ -1,4 +1,4 @@
-# Article Generator API
+# Blog Article Generator API
 
 ## Introducing Jaq
 The Jaq JavaScript SDK is a collection of useful methods for the [Jaq n Jil](https://jaqnjil.com/) API, which provides professional grade AI-generated articles and content based on specific parameters. 
@@ -18,7 +18,7 @@ Install via NPM library:
 npm install jaq-sdk
 ```
 
-Example usage to generate article:
+Example usage to generate a blog article:
 ```
 import { Jaq } from './Jaq.js';
 
